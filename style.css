@@ -1,6 +1,6 @@
 h1{
     font-size: 80px;
-    color: rgb(18, 145, 219);
+    color: rgb(1, 17, 26)
     text-align: center;
 }
 p{
@@ -11,3 +11,4 @@ p{
     display: block;
     margin: auto;
     border: solid 4px black;}
+    
